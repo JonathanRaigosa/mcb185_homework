@@ -1,0 +1,15 @@
+Sat Jan 20 20:29:04 PST 2024
+user: Mockinbird
+home: /home/Mockinbird
+shell: /bin/bash
+pwd: /home/Mockinbird/Code/mcb185_homework
+path: /usr/local/bin:/usr/bin:/cygdrive/c/Program Files (x86)/Razer/ChromaBroadcast/bin:/cygdrive/c/Program Files/Razer/ChromaBroadcast/bin:/cygdrive/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/cygdrive/c/WINDOWS/system32:/cygdrive/c/WINDOWS:/cygdrive/c/WINDOWS/System32/Wbem:/cygdrive/c/WINDOWS/System32/WindowsPowerShell/v1.0:/cygdrive/c/WINDOWS/System32/OpenSSH:/cygdrive/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/cygdrive/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/cygdrive/c/WINDOWS/system32:/cygdrive/c/WINDOWS:/cygdrive/c/WINDOWS/System32/Wbem:/cygdrive/c/WINDOWS/System32/WindowsPowerShell/v1.0:/cygdrive/c/WINDOWS/System32/OpenSSH:/cygdrive/c/WINDOWS/system32/config/systemprofile/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/Users/Mockinbird/AppData/Local/Microsoft/WindowsApps
+CYGWIN_NT-10.0-19045 DESKTOP-SABLLAE 3.4.10-1.x86_64 2023-11-29 12:12 UTC x86_64 Cygwin
+Python 3.9.16
+/home/Mockinbird/Code
+/home/Mockinbird/Code/MCB185
+/home/Mockinbird/Code/MCB185/.git
+/home/Mockinbird/Code/MCB185/data
+/home/Mockinbird/Code/mcb185_homework
+/home/Mockinbird/Code/mcb185_homework/.git
+/home/Mockinbird/Code/mcb185_homework/MCB185
