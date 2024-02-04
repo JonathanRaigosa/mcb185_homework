@@ -1,7 +1,7 @@
 # Choosek by Jonathan Raigosa
 
 def factor(n):
-	if n == 1 or n == 0:
+	if n == 0:
 		return 1
 	else: 
 		return n * factor(n - 1)
