@@ -3,8 +3,7 @@
 import math
 
 def poisson(n, k):
-	probability = (n ** k * math.e ** (-n) / math.factorial(k))
-	return probability
+	return (n ** k * math.e ** (-n) / math.factorial(k))
 
 print(poisson(1, 5))
 print(poisson(4, 7))
