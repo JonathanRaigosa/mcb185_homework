@@ -7,7 +7,9 @@ def factor(n):
 		return n * factor(n - 1)
 
 def answer(n, i):
-	if i < 0 or i > n:
+	if i < 0:
+		return 0
+	elif i > n:
 		return 0
 	else:
 		return factor(n) // factor(i) * factor(n - i)
