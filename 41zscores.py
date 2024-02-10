@@ -1,3 +1,5 @@
+# zScores by Jonathan Raigosa
+
 import random
 
 z1 = 0
