@@ -30,6 +30,7 @@ def death_saves():
 			return 'stable'
 		if failure >= 3:
 			return 'die'
+# This first loop creates a chain of probabilities
 
 for i in range(trials):
 	simulation = death_saves()
@@ -39,6 +40,7 @@ for i in range(trials):
 		stable_numb += 1
 	elif simulation == 'revived':
 		revived_numb += 1
+# Second loop adds to the count for each simulation
 
 print('die:', die_numb / trials)
 print('stabilize:', stable_numb / trials)

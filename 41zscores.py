@@ -1,4 +1,4 @@
-# zScores by Jonathan Raigosa
+# zScores by Jonathan Raigosa, md example
 
 import random
 
