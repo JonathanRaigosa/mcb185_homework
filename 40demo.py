@@ -1,4 +1,4 @@
-# Demo Code for HW 4 by Jonathan Raigosa
+# Demo Code for HW 4 by Jonathan Raigosa.
 
 import random
 # random number generators are essential for random expectations as a background model or null hypothesis

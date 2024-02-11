@@ -1,4 +1,4 @@
-# Chicago by Jonathan Raigosa
+# Chicago by Jonathan Raigosa.
 
 import random
 import sys

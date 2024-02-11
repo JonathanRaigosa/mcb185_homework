@@ -1,4 +1,4 @@
-# dnd stats by Jonathan Raigosa, Amima Muhic class example
+# dnd stats by Jonathan Raigosa, Amima Muhic class example.
 
 import random
 

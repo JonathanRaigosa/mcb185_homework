@@ -1,4 +1,4 @@
-# Monte Carlo pi estimate by Jonathan Raigosa
+# Monte Carlo pi estimate by Jonathan Raigosa.
 
 import random
 

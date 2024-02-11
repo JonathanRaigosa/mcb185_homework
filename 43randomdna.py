@@ -1,4 +1,4 @@
-# Random DNA by Jonathan Raigosa, received help from lecture.
+# Random DNA by Jonathan Raigosa, received help from lecture..
 
 import random
 

@@ -1,4 +1,4 @@
-# Death Saves by Jonathan Raigosa
+# Death Saves by Jonathan Raigosa.
 
 import random
 
