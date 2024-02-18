@@ -1,3 +1,5 @@
+# zScores by Jonathan Raigosa, md example.
+
 import random
 
 z1 = 0

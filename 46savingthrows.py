@@ -1,4 +1,4 @@
-# Saving Throws by Jonathan Raigosa; Help from class Jordan Shore
+# Saving Throws by Jonathan Raigosa; Help from class Jordan Shore.
 
 import random
 

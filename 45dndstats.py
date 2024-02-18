@@ -1,4 +1,4 @@
-# dnd stats by Jonathan Raigosa, Amima Muhic class example
+# dnd stats by Jonathan Raigosa, Amima Muhic class example.
 
 import random
 
@@ -64,7 +64,9 @@ for i in range(rolls):
 		mini_roll = d6_3
 	if d6_4 < mini_roll:
 		mini_roll = d6_4
-		
+
+# lowest roll identified and subtracted
+
 	score = d6_1 + d6_2	+ d6_3 + d6_4 - mini_roll
 	
 	total_4dr1 += score
