@@ -1,6 +1,6 @@
-# Demo 50 by Jonathan Raigosa
+# Demo 50 by Jonathan Raigosa.
 
-
+# test set for 53genomestats.py
 length = [120, 230, 530, 670]
 
 def stdv(vals):

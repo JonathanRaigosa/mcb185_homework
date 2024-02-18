@@ -1,4 +1,4 @@
-# Birthday Program 56 by Jonathan Raigosa received help from peer
+# Birthday Program 56 by Jonathan Raigosa received help from peer.
 
 import random
 import sys

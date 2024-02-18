@@ -1,4 +1,4 @@
-# 52entropy.py by Jonathan Raigosa
+# 52entropy.py by Jonathan Raigosa.
 
 import sys
 import math

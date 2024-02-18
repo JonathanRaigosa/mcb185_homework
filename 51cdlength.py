@@ -1,4 +1,4 @@
-# cdlength by Jonathan Raigosa
+# cdlength by Jonathan Raigosa.
 
 import gzip
 lengths = []

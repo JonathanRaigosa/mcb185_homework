@@ -1,4 +1,4 @@
-# ColorName by Jonathan Raigosa
+# ColorName by Jonathan Raigosa.
 
 import sys
 
@@ -27,8 +27,6 @@ def color_close(colorfile, target):
 			r = int(r)
 			g = int(g)
 			b = int(b)
-			
-			
 			
 			dist = dtc(target, (r, g, b)) # R, G, B are the values I input
 			

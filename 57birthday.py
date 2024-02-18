@@ -1,4 +1,4 @@
-# Birthday Program 57 by Jonathan Raigosa
+# Birthday Program 57 by Jonathan Raigosa.
 
 import random
 import sys
