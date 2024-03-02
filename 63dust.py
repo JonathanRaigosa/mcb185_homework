@@ -1,4 +1,4 @@
-# 63 Dust by Jonathan Raigosa; Help from Jordan Shore; Help from Apple Discord
+# 63 Dust by Jonathan Raigosa; Help from Jordan Shore.
 
 import sys
 import dogma

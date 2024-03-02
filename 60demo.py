@@ -1,4 +1,4 @@
-# 60demo.py by Jonathan Raigosa
+# 60demo.py by Jonathan Raigosa.
 
 import sys
 import mcb185
@@ -75,21 +75,3 @@ s = 1
 for i in range(0, len(seq) -w +1, s):
 	subseq = seq[i:i+w]
 '''
-
-
-for defline, seq in mcb185.read_fasta(sys.argv[1]):
-    print("defline:", defline)
-    print("seq:", seq)
-    if defline is not None:
-        defwords = defline.split()
-        name = defwords[0]
-        nts = 'ACGTN'
-        counts = [0] * len(nts)
-        for nt in seq:
-            idx = nts.find(nt)
-            counts[idx] += 1
-        print(name, end='\t')
-        for n in counts: print(f'{n/len(seq):.4f}', end='\t')
-        print()
-    else:
-        print("Warning: Encountered a None value for defline. Skipping this entry.")

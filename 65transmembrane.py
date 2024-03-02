@@ -1,4 +1,4 @@
-# 65 Transmembrane by Jonathan Raigosa; Young Jaime Class Example
+# 65 Transmembrane by Jonathan Raigosa; Young Jaime Class Example.
 
 import dogma
 import sys

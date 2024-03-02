@@ -1,4 +1,4 @@
-# Skewer 61 by Jonathan Raigosa
+# Skewer 61 by Jonathan Raigosa.
 '''
 import dogma
 

@@ -1,4 +1,4 @@
-# 64 Profinder by Jonathan Raigosa, Worked with Lilith
+# 64 Profinder by Jonathan Raigosa, Worked with Lilith.
 
 '''
 Example with Lilith
@@ -32,7 +32,7 @@ def profinder(seq, window_size):
 	translation = [] # stores translated amino acid seq
 
 	for sixframe in range(3):
-		forward = dogma.translate_master(seq[sixframe:]) # 0, 1 and 2 forward and rev frames translate
+		forward = dogma.translate_master(seq[sixframe:])
 		translation.append(forward)
 		reverse = dogma.translate_master(dogma.revcomp(seq)[sixframe:])
 		translation.append(reverse)

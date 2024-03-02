@@ -1,4 +1,4 @@
-# Dogma Test by Jonathan Raigosa
+# Dogma Test by Jonathan Raigosa.
 
 import dogma
 

@@ -1,4 +1,4 @@
-# Dogma by Jonathan Raigosa
+# Dogma by Jonathan Raigosa.
 import math
 
 def transcribe(dna):

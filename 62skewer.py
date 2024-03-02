@@ -1,4 +1,4 @@
-# 62 Skewer by Jonathan Raigosa Only Slightly Faster
+# 62 Skewer by Jonathan Raigosa Only Slightly Faster.
 # ; Help from Ian Korf Lecture
 
 import sys

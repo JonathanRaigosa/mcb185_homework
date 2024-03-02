@@ -1,7 +1,7 @@
 Participation
 =============
 
-## Activities ##
+## Activities! ##
 
 + (AC) Attend class: +2 points per day
 + (VP) Volunteer as programmer in class: +2 points per day
