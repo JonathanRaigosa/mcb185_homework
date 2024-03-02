@@ -16,12 +16,17 @@ Participation
 
 | U | AC | VP | AQ | OC | SH | SA | CA | OA | Tot | Notes
 |:-:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---:|:--------
-| 5 |  4 |  0 |  1 |  0 |  2 |  3 |  0 |  1 |  11 |  1.
-| 6 |    |    |    |    |    |    |    |    |     |  
-| 7 |    |    |    |    |    |    |    |    |     |  
+| 5 |  4 |  0 |  1 |  0 |  2 |  1 |  0 |  1 |  9  |  1.
+| 6 |  4 |  0 |  1 |  2 |  2 |  1 |  0 |  1 |  11 |  2., 3., 4.
+| 7 |  4 |  0 |  1 |  2 |  0 |  0 |  0 |  1 |  8  |  5., 6.
 | 8 |    |    |    |    |    |    |    |    |     |   
 | 9 |    |    |    |    |    |    |    |    |     |  
 
 Notes:
 
 1. I asked questions in Discord to interpret Code for day 5
+2. Asked a student a question in class.
+3. Talked with the professor about code.
+4. Answered question in discord.
+5. Attended Lilith's Coderie.
+6. Asked Question in Discord.
