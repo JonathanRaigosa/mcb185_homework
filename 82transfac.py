@@ -1,4 +1,4 @@
-# 82 transfac by Jonathan Raigosa; Co-author Conner Suen
+# 82 transfac by Jonathan Raigosa; Co-author Conner Suen.
 
 '''
 AC MA0001.3

@@ -1,4 +1,4 @@
-# Demo 80 by Jonathan Raigosa
+# Demo 80 by Jonathan Raigosa.
 
 print(sys.argv)
 print(sys.argv[0])

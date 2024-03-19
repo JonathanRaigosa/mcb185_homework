@@ -1,4 +1,4 @@
-# 83 Kozak by Jonathan Raigosa; Yutong Ji Followed by Example
+# 83 Kozak by Jonathan Raigosa; Yutong Ji Followed by Example.
 
 import gzip
 import mcb185

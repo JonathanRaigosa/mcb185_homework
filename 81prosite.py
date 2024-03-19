@@ -1,4 +1,4 @@
-# Prosite by Jonathan Raigosa
+# Prosite by Jonathan Raigosa.
 
 import mcb185
 import re
